@@ -264,7 +264,8 @@ $packagePrefixes = 'AppUp.IntelManagementandSecurityStatus',
 'MSTeams',
 'MicrosoftTeams', 
 'Microsoft.WindowsTerminal',
-'Microsoft.549981C3F5F10'
+'Microsoft.549981C3F5F10',
+'Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe!App'
 
 $packagesToRemove = $packages | Where-Object {
     $packageName = $_
