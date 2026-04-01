@@ -5,6 +5,7 @@
 3. Copy unattended.xml to the panther folder > enables win defender remover
 4. Check for other ps1 fixes like from chris titus tech
 5. gpedit.msc then computer config and admin templates, Click Windows components then BitLocker to disable all BitLocker settings. Also go to HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\FVE for registry tweak and add DWORDs: DisableBDE and DisableBDEUI then set both to 1. Lastly block BitLocker features in Windows update group policy to prevent future activation.
+6. https://github.com/zoicware/RemoveWindowsAI
 
 # Added bug fixes and removals from relevant PRs until April 1st 2026
 # Version forked for changes is September 5th 2025
