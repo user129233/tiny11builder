@@ -1,3 +1,10 @@
+# TODO
+
+1. Delete all install sources besides INDEX 6 (windows 11 pro) and edit the xml correspondingly<br>
+2. Create \OEM\$$\Panther\ inside this source<br>
+3. Copy unattended.xml to the panther folder > enables win defender remover
+4. Check for other ps1 fixes like from chris titus tech
+
 # Added bug fixes and removals from relevant PRs until April 1st 2026
 # Version forked for changes is September 5th 2025
 
