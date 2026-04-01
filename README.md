@@ -1,4 +1,7 @@
-# tiny11builder
+# Added bug fixes and removals from relevant PRs until April 1st 2026
+# Version forked for changes is September 5th 2025
+
+# [FORKED] tiny11builder
 *Scripts to build a trimmed-down Windows 11 image - now in **PowerShell**!*
 
 ## Introduction :
